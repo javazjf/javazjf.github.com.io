@@ -1,1 +1,1 @@
-# javazjf.github.com.io
+# javazjf.github.io
